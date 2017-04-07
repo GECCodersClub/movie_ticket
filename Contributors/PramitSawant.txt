@@ -1,2 +1,8 @@
 Name:Pramit Sawant
+<<<<<<< HEAD
 R.no: 151206016
+=======
+R.no: 151206015
+Dept: IT
+Sem: VI
+>>>>>>> 5d2e3757ecbb9e4b57c15f6b6b9601b938b78feb
