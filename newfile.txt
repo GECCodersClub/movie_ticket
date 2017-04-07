@@ -1,1 +1,2 @@
-details
+details:
+details2
